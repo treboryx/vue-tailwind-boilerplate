@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Vanessa",
+    "img": "https://i.imgur.com/zJqDMDG.png",
+    "hover": false
+  },
+  {
+    "name": "Valorant",
+    "img": "https://i.imgur.com/Bk1FmJ7.png"
+  },
+  {
+    "name": "Robot",
+    "img": "https://i.imgur.com/01eLTAF.png"
+  },
+  {
+    "name": "Tom",
+    "img": "https://i.imgur.com/pTJw4yB.jpg"
+  },
+  {
+    "name": "Robert",
+    "img": "https://i.imgur.com/PdtAgYU.jpg"
+  }
+]
